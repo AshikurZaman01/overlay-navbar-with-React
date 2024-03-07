@@ -1,8 +1,14 @@
+import Footer from "../Footer/Footer";
 
 const Home = () => {
     return (
         <div>
-            this is home
+
+            <section className="home"></section>
+
+
+            <div><Footer></Footer></div>
+
         </div>
     );
 };
